@@ -1,0 +1,14 @@
+body{
+    background: url(test.jpg);
+    background-position: center;
+    text-align: center;
+    color:darkblue;
+}
+.hello{
+    background: crimson;
+    color: darkgray;
+}
+.me{
+    background: darksalmon;
+    color: black;
+}
